@@ -1,3 +1,9 @@
+escritorio-educativo (1:0.4.1-2) unstable; urgency=low
+
+  * Actualización de prueba.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Fri, 22 Apr 2016 14:57:37 -0300
+
 escritorio-educativo (1:0.4.1-1) unstable; urgency=low
 
   * Comenzando a migrar el empaquetador a otro repositorio.
