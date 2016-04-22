@@ -23,9 +23,6 @@ export DH_OPTIONS
 override_dh_shlibdeps:
 	@echo "..."
 
-override_dh_install:
-	dh_install
-
 override_dh_auto_configure:
 	make deps
 	_dh_auto_configure
