@@ -1,3 +1,10 @@
+escritorio-educativo (1:0.4.9-1) unstable; urgency=low
+
+  * Actualizando a la versión 0.4.9.
+
+ -- Hugo Ruscitti <hugoruscitti@gmail.com>  Thu, 12 May 2016 13:57:01 -0300
+
+
 escritorio-educativo (1:0.4.3-1) unstable; urgency=low
 
   * agregando bower como dependencia.
